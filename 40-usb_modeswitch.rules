@@ -371,7 +371,7 @@ ATTRS{idVendor}=="1266", ATTRS{idProduct}=="1000", RUN+="usb_modeswitch '%b/%k'"
 # Huawei E169
 ATTRS{idVendor}=="12d1", ATTRS{idProduct}=="1001", RUN+="usb_modeswitch '%b/%k'"
 
-# Huawei E220, E230, E270, E870
+# Huawei E220, E230, E270, E870, E156
 ATTRS{idVendor}=="12d1", ATTRS{idProduct}=="1003", RUN+="usb_modeswitch '%b/%k'"
 
 # Huawei V725 Phone (aka Vodafone 725)
